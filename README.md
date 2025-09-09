@@ -1,6 +1,6 @@
 # 🧠 End-to-End Data Science Project
 
-This repository demonstrates the design and implementation of a complete **Machine Learning pipeline** from data ingestion to model evaluation. It showcases best practices in modular development, configuration-driven workflows, experiment tracking, and pipeline orchestration.
+This repository demonstrates the design and implementation of a complete **Machine Learning pipeline** from data ingestion to model evaluation. It showcases best practices in modular development, configuration-driven workflows, experiment tracking, and pipeline orchestration. 
 
 ---
 
